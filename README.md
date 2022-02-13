@@ -1,9 +1,9 @@
 # App-Challenge1
 ## Features
 **Layers:** 
-2019 Property value
-Communities
-2022 Property value
+1. 2019 Property value
+2. Communities
+3. 2022 Property value
 **Data items:**
 1.	Number of Residents
 2.	Number of Properties
