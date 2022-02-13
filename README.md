@@ -33,3 +33,5 @@ You can search a specific community or address by using the search bar on the up
 **4. Layers**
 
 From the info panel’s “Layer List” sections you can alter which of the three layers you want to show on the map. You can also change the layers transparency and order on the map by clicking the three-dot icon next to the layers name and choosing the desired action.
+
+<iframe width="560"  height="315"  src="https://ucalgary.yuja.com/V/Video?v=500555&node=2086070&a=714895906&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen loading="lazy"></iframe> 
