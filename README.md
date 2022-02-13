@@ -4,6 +4,7 @@
 1. 2019 Property value
 2. Communities
 3. 2022 Property value
+
 **Data items:**
 1.	Number of Residents
 2.	Number of Properties
