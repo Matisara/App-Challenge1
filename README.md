@@ -20,15 +20,15 @@
 
 **1. General use**
 
-You can move the map by dragging it with mouse and zoom in or out by using the mouse wheel or the (+) (-) icons on the right. House icon returns the map to the default extent.
+You can move the map by dragging it with mouse and zoom in or out by using the mouse wheel or the (+) (-) icons on the right. House icon returns the map to the default extent. The panels around the map show information of selected data, and the default selection is the whole city of Calgary.
 
 **2. Selecting community or property**
 
-The default selecting technique is select by point so just by clicking the map you can select specific content to view. You can also choose a different selecting technique by clicking the three lines icon from upper left corner and activating “select”. A panel appears to the right where you can choose your selecting technique and after that start selecting communities or properties from the map. 
+You can find the selecting icon from upper left corner and by activating it a panel appears where you can choose your selecting technique and after that start selecting communities or properties from the map. App then shows only the data of selected features. You can clear your selection with the selection windows "clear" button.
 
 **3. Search**
 
-You can search a specific community or address by using the search bar on the upper left corner. The map automatically zooms into the searched point or area.
+You can search a specific community or address by using the search bar on the upper right corner. The map automatically zooms into the searched point or area, but note that the searched feature is not selected automatically so that must be done separately.
 
 **4. Layers**
 
