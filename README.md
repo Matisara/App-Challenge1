@@ -12,7 +12,7 @@
 4.	Highest House Price
 5.	Lowest House Price
 6.	Structure types (Pie chart)
-7.	Dwelling sizes (Pie chart)
+7.	Dwelling sizes (Pie chart) 
 8.	Population age distribution (pillar chart)
 
 
