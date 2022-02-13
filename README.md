@@ -1,5 +1,6 @@
 # Info and instructions for the Calgary housing app
 ## Links
+Link to the app:
 
 https://ucalgary.maps.arcgis.com/apps/webappviewer/index.html?id=ae7eb5da19ec4cf3b3d491ef22208ae3 
 ## Features
