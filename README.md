@@ -3,11 +3,16 @@
 Link to the app:
 
 https://ucalgary.maps.arcgis.com/apps/webappviewer/index.html?id=ae7eb5da19ec4cf3b3d491ef22208ae3 
+
+Link to use instructions video:
+
+https://ucalgary.yuja.com/V/Video?v=500621&node=2086249&a=402324220&autoplay=1 
 ## Features
 **Layers:** 
-1. 2019 Property value
-2. Communities
-3. 2022 Property value
+1. Fire stations
+2. School locations
+3. 2019 Property value
+4. Communities
 
 **Data items:**
 1.	Number of Residents
@@ -17,7 +22,7 @@ https://ucalgary.maps.arcgis.com/apps/webappviewer/index.html?id=ae7eb5da19ec4cf
 5.	Lowest House Price
 6.	Structure types (Pie chart)
 7.	Dwelling sizes (Pie chart) 
-8.	Population age distribution (pillar chart)
+8.	Population age distribution (bar chart)
 
 
 # Use instructions
